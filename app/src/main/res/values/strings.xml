@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Protect Our Winters!</string>
+    <string name="Intro">Do you know about Climatechange?</string>
+    <string name="begin">Start the Quiz</string>
+    <string name="next">Next question >></string>
+
+    <string name="questionOne">What is climate change?</string>
+    <string name="answerOneOptionOne">The temparatures are getting warmer</string>
+    <string name="answerOneOptionTwo">A longt-term channge in the Earth\'s overall temperature with massive and permanent ramifications.</string>
+    <string name="answerOneOptionThree">Climate Change is a hoax made up to scare people.</string>
+    <string name="answerOneOptionFour">A change of seasons, leading to confusion for animals.</string>
+
+    <string name="questionTwo">Which professional athlete founded Protect our Winters?</string>
+    <string name="answerHintOptionOne">Type the name eg. David Beckham.</string>
+
+
+    <string name="questionThree">How much do you think did the overall average temparature on earth rise in the last decade?</string>
+    <string name="answerThreeOptionOne">1.2°C</string>
+    <string name="answerThreeOptionTwo">-2°C</string>
+    <string name="answerThreeOptionThree">4.1°C</string>
+    <string name="answerThreeOptionFour">It didn\'t change</string>
+
+    <string name="questionFour">How many of the last 13 years were the warmest on records?</string>
+    <string name="answerFourOptionOne">13</string>
+    <string name="answerFourOptionTwo">2</string>
+    <string name="answerFourOptionThree">10</string>
+    <string name="answerFourOptionFour">6</string>
+
+    <string name="questionFive">What do you think causes these changes?</string>
+    <string name="answerFiveOptionOne">It\'s just a normal natural circle.</string>
+    <string name="answerFiveOptionTwo">The industry</string>
+    <string name="answerFiveOptionThree">Humans</string>
+    <string name="answerFiveOptionFour">Animals are causing this.</string>
+
+    <string name="questionSix">Who is the biggest victim of these changes?</string>
+    <string name="answerSixOptionOne">Humans</string>
+    <string name="answerSixOptionTwo">Animals</string>
+    <string name="answerSixOptionThree">No one is affected.</string>
+    <string name="answerSixOptionFour">The Ocean</string>
+
+    <string name="questionSeven">Why should we care?</string>
+    <string name="answerSevenOptionOne">Winters are getting shorter.</string>
+    <string name="answerSevenOptionTwo">Our Planet is getting destroyed and this can\'t be stopped if we don\'t act now! </string>
+    <string name="answerSevenOptionThree">We shouldn\'t there\'s nothing going to happen! </string>
+    <string name="answerSevenOptionFour">It\'s getting warmer. So what\'s the Problem?</string>
+
+    <!-- Stats heading /!-->
+    <string name="Stats">Stats</string>
+
+    <string name="retake">Retake</string>
+    <string name="submit">Submit</string>
+    <string name="share">share</string>
+</resources>

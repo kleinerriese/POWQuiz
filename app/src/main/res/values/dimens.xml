@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="intro">32sp</dimen>
+    <dimen name="questionText">24sp</dimen>
+    <dimen name="questionTop">38dp</dimen>
+    <dimen name="radioTop">6dp</dimen>
+    <dimen name="radioButtonText">16sp</dimen>
+    <dimen name="headerText">24sp</dimen>
+</resources>

@@ -6,4 +6,5 @@
     <dimen name="radioTop">6dp</dimen>
     <dimen name="radioButtonText">16sp</dimen>
     <dimen name="headerText">24sp</dimen>
+    <dimen name="statsText">20sp</dimen>
 </resources>
